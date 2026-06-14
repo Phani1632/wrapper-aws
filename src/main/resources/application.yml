@@ -1,6 +1,9 @@
 spring:
   application:
     name: wrapper
+  security:
+    enabled: false
 server:
     port: 8081
+
 
